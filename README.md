@@ -1,6 +1,3 @@
-Nama    : Carissa Almi
-
-
-
-PM     : 2106751676
+Nama    : Carissa Almira
+NPM     : 2106751676
 Kelas   : E
